@@ -584,6 +584,9 @@ gladly accepted.
 
 - payed  [Purchasing, slightly "payed" is a work around for "paid"]
 - given
+
+- async
+  await
 ```
 
 6
@@ -633,6 +636,9 @@ gladly accepted.
 
 - affirm
   negate
+
+- assert
+  refute
 
 - gather
   spread  [instead of scatter]
